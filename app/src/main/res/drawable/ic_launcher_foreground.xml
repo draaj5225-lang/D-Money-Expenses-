@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Card container with depth -->
+    <path
+        android:pathData="M28,32 H80 A8,8 0 0,1 88,40 V74 A8,8 0 0,1 80,82 H28 A8,8 0 0,1 20,74 V40 A8,8 0 0,1 28,32 Z"
+        android:fillColor="#042F2E" />
+    <path
+        android:pathData="M27,30 H79 A8,8 0 0,1 87,38 V72 A8,8 0 0,1 79,80 H27 A8,8 0 0,1 19,72 V38 A8,8 0 0,1 27,30 Z"
+        android:fillColor="#0F766E" />
+    <!-- Golden Accent Strip -->
+    <path
+        android:pathData="M19,42 H87 V47 H19 Z"
+        android:fillColor="#FBBF24" />
+    <!-- Golden Rupee Coin Emblem -->
+    <path
+        android:pathData="M54,49 A16,16 0 1,0 54,81 A16,16 0 1,0 54,49 Z"
+        android:fillColor="#F59E0B" />
+    <!-- Rupee Symbol Stroke in White -->
+    <path
+        android:pathData="M48,56 H60 M48,60 H57 M51,56 V62 C53.5,62 55.5,63.2 55.5,65 C55.5,66.8 53.5,68 51,68 L57.5,75 M51,68 H48"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2.2"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+</vector>

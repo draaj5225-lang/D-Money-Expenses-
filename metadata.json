@@ -1,0 +1,6 @@
+{
+  "name": "Kharcha Tracker",
+  "description": "Smart bilingual daily expense tracker with category sub-totals, interactive analytics, and quick phone authentication.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
